@@ -1,76 +1,76 @@
-ï»¿æ™´å¤© clear 1
-å¤šé›² partly cloudy 2
-é™°å¤© cloudy 3
-é™°æœ‰éœ§ cloudy with fog 3
-é™°æœ‰é›¨ rainy 4
-é™°é™£é›¨ cloudy with showers 4
-å¤šé›²æ™‚é™° mostly cloudy 5
-é™°æ™‚å¤šé›² mostly cloudy 6
-å¤šé›²æ™‚æ™´ partly clear 7
-æ™´æ™‚å¤šé›² mostly clear 8
-å¤šé›²æ™‚é™°æœ‰é›¨ mostly cloudy with rain 12
-å¤šé›²çŸ­æš«é›¨ partly cloudy with occasional rain 12
-å¤šé›²æ™‚é™°çŸ­æš«é›¨ mostly cloudy with occasional rain 12
-å¤šé›²å±€éƒ¨é›¨ partly cloudy with local rain 12
-å¤šé›²æ™‚é™°å±€éƒ¨é›¨ mostly cloudy with local rain 12
-é™£é›¨ showers 12
-å¤šé›²æ™‚é™°é™£é›¨ mostly cloudy with showers 12
-å¤šé›²çŸ­æš«é™£é›¨ partly cloudy with occasional showers 12
-å¤šé›²æ™‚é™°çŸ­æš«é™£é›¨ mostly cloudy with occasional showers 12
-å¤šé›²å±€éƒ¨é™£é›¨ partly cloudy with local showers 12
-å¤šé›²æ™‚é™°å±€éƒ¨é™£é›¨ mostly cloudy with local showers 12
-å¤šé›²åˆå¾ŒçŸ­æš«é™£é›¨ partly cloudy with occasional afternoon showers 13
-å¤šé›²æ™‚é™°é™£é›¨æˆ–é›·é›¨ mostly cloudy with showers or thunderstorms 17
-å¤šé›²çŸ­æš«é™£é›¨æˆ–é›·é›¨ partly cloudy with occasional showers or thunderstorms 17
-å¤šé›²æ™‚é™°çŸ­æš«é™£é›¨æˆ–é›·é›¨ mostly cloudy with occasional showers or thunderstorms 17
-å¤šé›²å±€éƒ¨é™£é›¨æˆ–é›·é›¨ partly cloudy with local showers or thunderstorms 17
-å¤šé›²æ™‚é™°å±€éƒ¨é™£é›¨æˆ–é›·é›¨ mostly cloudy with local showers or thunderstorms 17
-å¤šé›²åˆå¾ŒçŸ­æš«é›·é™£é›¨ partly cloudy with occasional afternoon thundershowers 18
-æ™´åˆå¾ŒçŸ­æš«é™£é›¨ clear with occasional afternoon showers 24
-é™°æ™‚å¤šé›²æœ‰é›¨ mostly cloudy with rain 26
-é™°æ™‚å¤šé›²çŸ­æš«é›¨ mostly cloudy with occasional rain 26
-é™°çŸ­æš«é›¨ cloudy with occasional rain 26
-é«˜æº«ä½æº«
-é™°æ™‚å¤šé›²å±€éƒ¨é›¨ mostly cloudy with local rain 26
-é™°å±€éƒ¨é›¨ cloudy with local rain 26
-é™°æ™‚å¤šé›²é™£é›¨ mostly cloudy with showers 26
-é™°æ™‚å¤šé›²çŸ­æš«é™£é›¨ mostly cloudy with occasional showers 26
-é™°çŸ­æš«é™£é›¨ cloudy with occasional showers 26
-é™°æ™‚å¤šé›²å±€éƒ¨é™£é›¨ mostly cloudy with local showers 26
-ä¸­æ–‡æè¿° è‹±æ–‡æè¿° åˆ†é¡ä»£ç¢¼
-é™°å±€éƒ¨é™£é›¨ cloudy with local showers 26
-é™°é™£é›¨æˆ–é›·é›¨ cloudy with showers or thunderstorms 31
-æ™´åˆå¾ŒçŸ­æš«é›·é™£é›¨ clear with occasional afternoon thundershowers 34
-é™°æ™‚å¤šé›²é™£é›¨æˆ–é›·é›¨ mostly cloudy with showers or thunderstorms 36
-é™°æ™‚å¤šé›²çŸ­æš«é™£é›¨æˆ–é›·é›¨ mostly cloudy with occasional showers or thunderstorms 36
-é™°çŸ­æš«é™£é›¨æˆ–é›·é›¨ cloudy with occasional showers or thunderstorms 36
-é™°æ™‚å¤šé›²å±€éƒ¨é™£é›¨æˆ–é›·é›¨ mostly cloudy with local showers or thunderstorms 36
-é™°å±€éƒ¨é™£é›¨æˆ–é›·é›¨ cloudy with local showers or thunderstorms 36
-æ™´æœ‰éœ§ clear with fog 43
-å¤šé›²æœ‰éœ§ partly cloudy with fog 44
-å¤šé›²æ™‚é™°æœ‰éœ§ mostly cloudy with fog 44
-é™°æ™‚å¤šé›²æœ‰éœ§ mostly cloudy with fog 44
-å¤šé›²æ™‚æ™´æœ‰éœ§ partly clear with fog 45
-æ™´æ™‚å¤šé›²æœ‰éœ§ mostly clear with fog 46
-å¤šé›²å±€éƒ¨é›¨æœ‰éœ§ partly cloudy with local rain and fog 49
-å¤šé›²æ™‚é™°å±€éƒ¨é›¨æœ‰éœ§ mostly cloudy with local rain and fog 49
-å¤šé›²å±€éƒ¨é™£é›¨æœ‰éœ§ partly cloudy with local showers and fog 49
-å¤šé›²æ™‚é™°å±€éƒ¨é™£é›¨æœ‰éœ§ mostly cloudy with local showers and fog 49
-é™°æ™‚å¤šé›²å±€éƒ¨é›¨æœ‰éœ§ mostly cloudy with local rain and fog 57
-é™°å±€éƒ¨é›¨æœ‰éœ§ cloudy with local rain and fog 57
-é™°æ™‚å¤šé›²å±€éƒ¨é™£é›¨æœ‰éœ§ mostly cloudy with local showers and fog 57
-é™°å±€éƒ¨é™£é›¨æœ‰éœ§ cloudy with local showers and fog 57
-å¤šé›²å±€éƒ¨é™£é›¨æˆ–é›·é›¨æœ‰éœ§ partly cloudy with local showers or thunderstorms and fog 58
-å¤šé›²æ™‚é™°å±€éƒ¨é™£é›¨æˆ–é›·é›¨æœ‰éœ§ mostly cloudy with local showers or thunderstorms and fog 58
-é™°æ™‚å¤šé›²å±€éƒ¨é™£é›¨æˆ–é›·é›¨æœ‰éœ§ mostly cloudy with local showers or thunderstorms and fog 59
-é™°å±€éƒ¨é™£é›¨æˆ–é›·é›¨æœ‰éœ§ cloudy with local showers or thunderstorms and fog 59
-å¤šé›²æ™‚é™°æœ‰é›¨æˆ–é›ª mostly cloudy with rain or snow 60
-é™°æ™‚å¤šé›²æœ‰é›¨æˆ–é›ª mostly cloudy with rain or snow 60
-é™°æœ‰é›¨æˆ–é›ª cloudy with rain or snow 60
-å¤šé›²çŸ­æš«é›¨æˆ–é›ª partly cloudy with occasional rain or snow 60
-å¤šé›²æ™‚é™°çŸ­æš«é›¨æˆ–é›ª mostly cloudy with occasional rain or snow 60
-é™°æ™‚å¤šé›²çŸ­æš«é›¨æˆ–é›ª mostly cloudy with occasional rain or snow 60
-é™°çŸ­æš«é›¨æˆ–é›ª cloudy with occasional rain or snow 60
+ÇçÌì clear 1
+¶àÔÆ partly cloudy 2
+ÒõÌì cloudy 3
+ÒõÓĞÎí cloudy with fog 3
+ÒõÓĞÓê rainy 4
+ÒõÕóÓê cloudy with showers 4
+¶àÔÆÊ±Òõ mostly cloudy 5
+ÒõÊ±¶àÔÆ mostly cloudy 6
+¶àÔÆÊ±Çç partly clear 7
+ÇçÊ±¶àÔÆ mostly clear 8
+¶àÔÆÊ±ÒõÓĞÓê mostly cloudy with rain 12
+¶àÔÆ¶ÌÔİÓê partly cloudy with occasional rain 12
+¶àÔÆÊ±Òõ¶ÌÔİÓê mostly cloudy with occasional rain 12
+¶àÔÆ¾Ö²¿Óê partly cloudy with local rain 12
+¶àÔÆÊ±Òõ¾Ö²¿Óê mostly cloudy with local rain 12
+ÕóÓê showers 12
+¶àÔÆÊ±ÒõÕóÓê mostly cloudy with showers 12
+¶àÔÆ¶ÌÔİÕóÓê partly cloudy with occasional showers 12
+¶àÔÆÊ±Òõ¶ÌÔİÕóÓê mostly cloudy with occasional showers 12
+¶àÔÆ¾Ö²¿ÕóÓê partly cloudy with local showers 12
+¶àÔÆÊ±Òõ¾Ö²¿ÕóÓê mostly cloudy with local showers 12
+¶àÔÆÎçºó¶ÌÔİÕóÓê partly cloudy with occasional afternoon showers 13
+¶àÔÆÊ±ÒõÕóÓê»òÀ×Óê mostly cloudy with showers or thunderstorms 17
+¶àÔÆ¶ÌÔİÕóÓê»òÀ×Óê partly cloudy with occasional showers or thunderstorms 17
+¶àÔÆÊ±Òõ¶ÌÔİÕóÓê»òÀ×Óê mostly cloudy with occasional showers or thunderstorms 17
+¶àÔÆ¾Ö²¿ÕóÓê»òÀ×Óê partly cloudy with local showers or thunderstorms 17
+¶àÔÆÊ±Òõ¾Ö²¿ÕóÓê»òÀ×Óê mostly cloudy with local showers or thunderstorms 17
+¶àÔÆÎçºó¶ÌÔİÀ×ÕóÓê partly cloudy with occasional afternoon thundershowers 18
+ÇçÎçºó¶ÌÔİÕóÓê clear with occasional afternoon showers 24
+ÒõÊ±¶àÔÆÓĞÓê mostly cloudy with rain 26
+ÒõÊ±¶àÔÆ¶ÌÔİÓê mostly cloudy with occasional rain 26
+Òõ¶ÌÔİÓê cloudy with occasional rain 26
+¸ßÎÂµÍÎÂ
+ÒõÊ±¶àÔÆ¾Ö²¿Óê mostly cloudy with local rain 26
+Òõ¾Ö²¿Óê cloudy with local rain 26
+ÒõÊ±¶àÔÆÕóÓê mostly cloudy with showers 26
+ÒõÊ±¶àÔÆ¶ÌÔİÕóÓê mostly cloudy with occasional showers 26
+Òõ¶ÌÔİÕóÓê cloudy with occasional showers 26
+ÒõÊ±¶àÔÆ¾Ö²¿ÕóÓê mostly cloudy with local showers 26
+ÖĞÎÄÃèÊö Ó¢ÎÄÃèÊö ·ÖÀà´úÂë
+Òõ¾Ö²¿ÕóÓê cloudy with local showers 26
+ÒõÕóÓê»òÀ×Óê cloudy with showers or thunderstorms 31
+ÇçÎçºó¶ÌÔİÀ×ÕóÓê clear with occasional afternoon thundershowers 34
+ÒõÊ±¶àÔÆÕóÓê»òÀ×Óê mostly cloudy with showers or thunderstorms 36
+ÒõÊ±¶àÔÆ¶ÌÔİÕóÓê»òÀ×Óê mostly cloudy with occasional showers or thunderstorms 36
+Òõ¶ÌÔİÕóÓê»òÀ×Óê cloudy with occasional showers or thunderstorms 36
+ÒõÊ±¶àÔÆ¾Ö²¿ÕóÓê»òÀ×Óê mostly cloudy with local showers or thunderstorms 36
+Òõ¾Ö²¿ÕóÓê»òÀ×Óê cloudy with local showers or thunderstorms 36
+ÇçÓĞÎí clear with fog 43
+¶àÔÆÓĞÎí partly cloudy with fog 44
+¶àÔÆÊ±ÒõÓĞÎí mostly cloudy with fog 44
+ÒõÊ±¶àÔÆÓĞÎí mostly cloudy with fog 44
+¶àÔÆÊ±ÇçÓĞÎí partly clear with fog 45
+ÇçÊ±¶àÔÆÓĞÎí mostly clear with fog 46
+¶àÔÆ¾Ö²¿ÓêÓĞÎí partly cloudy with local rain and fog 49
+¶àÔÆÊ±Òõ¾Ö²¿ÓêÓĞÎí mostly cloudy with local rain and fog 49
+¶àÔÆ¾Ö²¿ÕóÓêÓĞÎí partly cloudy with local showers and fog 49
+¶àÔÆÊ±Òõ¾Ö²¿ÕóÓêÓĞÎí mostly cloudy with local showers and fog 49
+ÒõÊ±¶àÔÆ¾Ö²¿ÓêÓĞÎí mostly cloudy with local rain and fog 57
+Òõ¾Ö²¿ÓêÓĞÎí cloudy with local rain and fog 57
+ÒõÊ±¶àÔÆ¾Ö²¿ÕóÓêÓĞÎí mostly cloudy with local showers and fog 57
+Òõ¾Ö²¿ÕóÓêÓĞÎí cloudy with local showers and fog 57
+¶àÔÆ¾Ö²¿ÕóÓê»òÀ×ÓêÓĞÎí partly cloudy with local showers or thunderstorms and fog 58
+¶àÔÆÊ±Òõ¾Ö²¿ÕóÓê»òÀ×ÓêÓĞÎí mostly cloudy with local showers or thunderstorms and fog 58
+ÒõÊ±¶àÔÆ¾Ö²¿ÕóÓê»òÀ×ÓêÓĞÎí mostly cloudy with local showers or thunderstorms and fog 59
+Òõ¾Ö²¿ÕóÓê»òÀ×ÓêÓĞÎí cloudy with local showers or thunderstorms and fog 59
+¶àÔÆÊ±ÒõÓĞÓê»òÑ© mostly cloudy with rain or snow 60
+ÒõÊ±¶àÔÆÓĞÓê»òÑ© mostly cloudy with rain or snow 60
+ÒõÓĞÓê»òÑ© cloudy with rain or snow 60
+¶àÔÆ¶ÌÔİÓê»òÑ© partly cloudy with occasional rain or snow 60
+¶àÔÆÊ±Òõ¶ÌÔİÓê»òÑ© mostly cloudy with occasional rain or snow 60
+ÒõÊ±¶àÔÆ¶ÌÔİÓê»òÑ© mostly cloudy with occasional rain or snow 60
+Òõ¶ÌÔİÓê»òÑ© cloudy with occasional rain or snow 60
 
 
 <?xml version="1.0" encoding="UTF-8"?>
@@ -99,7 +99,7 @@
 
 -<datasetInfo>
 
-<datasetDescription>ä¸‰åå…­å°æ™‚å¤©æ°£é å ±</datasetDescription>
+<datasetDescription>ÈıÊ®ÁùĞ¡Ê±ÌìšâîAˆó</datasetDescription>
 
 <issueTime>2017-02-06T11:00:00+08:00</issueTime>
 
@@ -110,7 +110,7 @@
 
 -<location>
 
-<locationName>è‡ºåŒ—å¸‚</locationName>
+<locationName>Å_±±ÊĞ</locationName>
 
 
 -<weatherElement>
@@ -127,7 +127,7 @@
 
 -<parameter>
 
-<parameterName>æ™´æ™‚å¤šé›²</parameterName>
+<parameterName>ÇçÊ±¶àÔÆ</parameterName>
 
 <parameterValue>8</parameterValue>
 
@@ -145,7 +145,7 @@
 
 -<parameter>
 
-<parameterName>å¤šé›²</parameterName>
+<parameterName>¶àÔÆ</parameterName>
 
 <parameterValue>2</parameterValue>
 
@@ -163,7 +163,7 @@
 
 -<parameter>
 
-<parameterName>å¤šé›²</parameterName>
+<parameterName>¶àÔÆ</parameterName>
 
 <parameterValue>2</parameterValue>
 
@@ -310,7 +310,7 @@
 
 -<parameter>
 
-<parameterName>ç¨æœ‰å¯’æ„</parameterName>
+<parameterName>ÉÔÓĞº®Òâ</parameterName>
 
 </parameter>
 
@@ -326,7 +326,7 @@
 
 -<parameter>
 
-<parameterName>å¯’å†·è‡³ç¨æœ‰å¯’æ„</parameterName>
+<parameterName>º®ÀäÖÁÉÔÓĞº®Òâ</parameterName>
 
 </parameter>
 
@@ -342,7 +342,7 @@
 
 -<parameter>
 
-<parameterName>å¯’å†·è‡³èˆ’é©</parameterName>
+<parameterName>º®ÀäÖÁÊæßm</parameterName>
 
 </parameter>
 
@@ -367,7 +367,7 @@
 
 <parameterName>0</parameterName>
 
-<parameterUnit>ç™¾åˆ†æ¯”</parameterUnit>
+<parameterUnit>°Ù·Ö±È</parameterUnit>
 
 </parameter>
 
@@ -385,7 +385,7 @@
 
 <parameterName>0</parameterName>
 
-<parameterUnit>ç™¾åˆ†æ¯”</parameterUnit>
+<parameterUnit>°Ù·Ö±È</parameterUnit>
 
 </parameter>
 
@@ -403,7 +403,7 @@
 
 <parameterName>0</parameterName>
 
-<parameterUnit>ç™¾åˆ†æ¯”</parameterUnit>
+<parameterUnit>°Ù·Ö±È</parameterUnit>
 
 </parameter>
 
@@ -416,7 +416,7 @@
 
 -<location>
 
-<locationName>æ–°åŒ—å¸‚</locationName>
+<locationName>ĞÂ±±ÊĞ</locationName>
 
 
 -<weatherElement>
@@ -433,7 +433,7 @@
 
 -<parameter>
 
-<parameterName>æ™´æ™‚å¤šé›²</parameterName>
+<parameterName>ÇçÊ±¶àÔÆ</parameterName>
 
 <parameterValue>8</parameterValue>
 
@@ -451,7 +451,7 @@
 
 -<parameter>
 
-<parameterName>å¤šé›²æ™‚æ™´</parameterName>
+<parameterName>¶àÔÆÊ±Çç</parameterName>
 
 <parameterValue>7</parameterValue>
 
@@ -469,7 +469,7 @@
 
 -<parameter>
 
-<parameterName>å¤šé›²æ™‚æ™´</parameterName>
+<parameterName>¶àÔÆÊ±Çç</parameterName>
 
 <parameterValue>7</parameterValue>
 
@@ -616,7 +616,7 @@
 
 -<parameter>
 
-<parameterName>ç¨æœ‰å¯’æ„</parameterName>
+<parameterName>ÉÔÓĞº®Òâ</parameterName>
 
 </parameter>
 
@@ -632,7 +632,7 @@
 
 -<parameter>
 
-<parameterName>å¯’å†·è‡³ç¨æœ‰å¯’æ„</parameterName>
+<parameterName>º®ÀäÖÁÉÔÓĞº®Òâ</parameterName>
 
 </parameter>
 
@@ -648,7 +648,7 @@
 
 -<parameter>
 
-<parameterName>å¯’å†·è‡³ç¨æœ‰å¯’æ„</parameterName>
+<parameterName>º®ÀäÖÁÉÔÓĞº®Òâ</parameterName>
 
 </parameter>
 
@@ -673,7 +673,7 @@
 
 <parameterName>0</parameterName>
 
-<parameterUnit>ç™¾åˆ†æ¯”</parameterUnit>
+<parameterUnit>°Ù·Ö±È</parameterUnit>
 
 </parameter>
 
@@ -691,7 +691,7 @@
 
 <parameterName>0</parameterName>
 
-<parameterUnit>ç™¾åˆ†æ¯”</parameterUnit>
+<parameterUnit>°Ù·Ö±È</parameterUnit>
 
 </parameter>
 
@@ -709,7 +709,7 @@
 
 <parameterName>0</parameterName>
 
-<parameterUnit>ç™¾åˆ†æ¯”</parameterUnit>
+<parameterUnit>°Ù·Ö±È</parameterUnit>
 
 </parameter>
 
@@ -722,7 +722,7 @@
 
 -<location>
 
-<locationName>æ¡ƒåœ’å¸‚</locationName>
+<locationName>ÌÒˆ@ÊĞ</locationName>
 
 
 -<weatherElement>
@@ -739,7 +739,7 @@
 
 -<parameter>
 
-<parameterName>æ™´æ™‚å¤šé›²</parameterName>
+<parameterName>ÇçÊ±¶àÔÆ</parameterName>
 
 <parameterValue>8</parameterValue>
 
@@ -757,7 +757,7 @@
 
 -<parameter>
 
-<parameterName>æ™´æ™‚å¤šé›²</parameterName>
+<parameterName>ÇçÊ±¶àÔÆ</parameterName>
 
 <parameterValue>8</parameterValue>
 
@@ -775,7 +775,7 @@
 
 -<parameter>
 
-<parameterName>æ™´æ™‚å¤šé›²</parameterName>
+<parameterName>ÇçÊ±¶àÔÆ</parameterName>
 
 <parameterValue>8</parameterValue>
 
@@ -922,7 +922,7 @@
 
 -<parameter>
 
-<parameterName>ç¨æœ‰å¯’æ„</parameterName>
+<parameterName>ÉÔÓĞº®Òâ</parameterName>
 
 </parameter>
 
@@ -938,7 +938,7 @@
 
 -<parameter>
 
-<parameterName>å¯’å†·è‡³ç¨æœ‰å¯’æ„</parameterName>
+<parameterName>º®ÀäÖÁÉÔÓĞº®Òâ</parameterName>
 
 </parameter>
 
@@ -954,7 +954,7 @@
 
 -<parameter>
 
-<parameterName>å¯’å†·è‡³èˆ’é©</parameterName>
+<parameterName>º®ÀäÖÁÊæßm</parameterName>
 
 </parameter>
 
@@ -979,7 +979,7 @@
 
 <parameterName>0</parameterName>
 
-<parameterUnit>ç™¾åˆ†æ¯”</parameterUnit>
+<parameterUnit>°Ù·Ö±È</parameterUnit>
 
 </parameter>
 
@@ -997,7 +997,7 @@
 
 <parameterName>0</parameterName>
 
-<parameterUnit>ç™¾åˆ†æ¯”</parameterUnit>
+<parameterUnit>°Ù·Ö±È</parameterUnit>
 
 </parameter>
 
@@ -1015,7 +1015,7 @@
 
 <parameterName>0</parameterName>
 
-<parameterUnit>ç™¾åˆ†æ¯”</parameterUnit>
+<parameterUnit>°Ù·Ö±È</parameterUnit>
 
 </parameter>
 
@@ -1028,7 +1028,7 @@
 
 -<location>
 
-<locationName>è‡ºä¸­å¸‚</locationName>
+<locationName>Å_ÖĞÊĞ</locationName>
 
 
 -<weatherElement>
@@ -1045,7 +1045,7 @@
 
 -<parameter>
 
-<parameterName>æ™´æ™‚å¤šé›²</parameterName>
+<parameterName>ÇçÊ±¶àÔÆ</parameterName>
 
 <parameterValue>8</parameterValue>
 
@@ -1063,7 +1063,7 @@
 
 -<parameter>
 
-<parameterName>æ™´æ™‚å¤šé›²</parameterName>
+<parameterName>ÇçÊ±¶àÔÆ</parameterName>
 
 <parameterValue>8</parameterValue>
 
@@ -1081,7 +1081,7 @@
 
 -<parameter>
 
-<parameterName>æ™´æ™‚å¤šé›²</parameterName>
+<parameterName>ÇçÊ±¶àÔÆ</parameterName>
 
 <parameterValue>8</parameterValue>
 
@@ -1228,7 +1228,7 @@
 
 -<parameter>
 
-<parameterName>èˆ’é©</parameterName>
+<parameterName>Êæßm</parameterName>
 
 </parameter>
 
@@ -1244,7 +1244,7 @@
 
 -<parameter>
 
-<parameterName>å¯’å†·è‡³èˆ’é©</parameterName>
+<parameterName>º®ÀäÖÁÊæßm</parameterName>
 
 </parameter>
 
@@ -1260,7 +1260,7 @@
 
 -<parameter>
 
-<parameterName>å¯’å†·è‡³èˆ’é©</parameterName>
+<parameterName>º®ÀäÖÁÊæßm</parameterName>
 
 </parameter>
 
@@ -1285,7 +1285,7 @@
 
 <parameterName>0</parameterName>
 
-<parameterUnit>ç™¾åˆ†æ¯”</parameterUnit>
+<parameterUnit>°Ù·Ö±È</parameterUnit>
 
 </parameter>
 
@@ -1303,7 +1303,7 @@
 
 <parameterName>0</parameterName>
 
-<parameterUnit>ç™¾åˆ†æ¯”</parameterUnit>
+<parameterUnit>°Ù·Ö±È</parameterUnit>
 
 </parameter>
 
@@ -1321,7 +1321,7 @@
 
 <parameterName>0</parameterName>
 
-<parameterUnit>ç™¾åˆ†æ¯”</parameterUnit>
+<parameterUnit>°Ù·Ö±È</parameterUnit>
 
 </parameter>
 
@@ -1334,7 +1334,7 @@
 
 -<location>
 
-<locationName>è‡ºå—å¸‚</locationName>
+<locationName>Å_ÄÏÊĞ</locationName>
 
 
 -<weatherElement>
@@ -1351,7 +1351,7 @@
 
 -<parameter>
 
-<parameterName>æ™´æ™‚å¤šé›²</parameterName>
+<parameterName>ÇçÊ±¶àÔÆ</parameterName>
 
 <parameterValue>8</parameterValue>
 
@@ -1369,7 +1369,7 @@
 
 -<parameter>
 
-<parameterName>æ™´æ™‚å¤šé›²</parameterName>
+<parameterName>ÇçÊ±¶àÔÆ</parameterName>
 
 <parameterValue>8</parameterValue>
 
@@ -1387,7 +1387,7 @@
 
 -<parameter>
 
-<parameterName>æ™´æ™‚å¤šé›²</parameterName>
+<parameterName>ÇçÊ±¶àÔÆ</parameterName>
 
 <parameterValue>8</parameterValue>
 
@@ -1534,7 +1534,7 @@
 
 -<parameter>
 
-<parameterName>èˆ’é©</parameterName>
+<parameterName>Êæßm</parameterName>
 
 </parameter>
 
@@ -1550,7 +1550,7 @@
 
 -<parameter>
 
-<parameterName>ç¨æœ‰å¯’æ„è‡³èˆ’é©</parameterName>
+<parameterName>ÉÔÓĞº®ÒâÖÁÊæßm</parameterName>
 
 </parameter>
 
@@ -1566,7 +1566,7 @@
 
 -<parameter>
 
-<parameterName>ç¨æœ‰å¯’æ„è‡³èˆ’é©</parameterName>
+<parameterName>ÉÔÓĞº®ÒâÖÁÊæßm</parameterName>
 
 </parameter>
 
@@ -1591,7 +1591,7 @@
 
 <parameterName>0</parameterName>
 
-<parameterUnit>ç™¾åˆ†æ¯”</parameterUnit>
+<parameterUnit>°Ù·Ö±È</parameterUnit>
 
 </parameter>
 
@@ -1609,7 +1609,7 @@
 
 <parameterName>0</parameterName>
 
-<parameterUnit>ç™¾åˆ†æ¯”</parameterUnit>
+<parameterUnit>°Ù·Ö±È</parameterUnit>
 
 </parameter>
 
@@ -1627,7 +1627,7 @@
 
 <parameterName>0</parameterName>
 
-<parameterUnit>ç™¾åˆ†æ¯”</parameterUnit>
+<parameterUnit>°Ù·Ö±È</parameterUnit>
 
 </parameter>
 
@@ -1640,7 +1640,7 @@
 
 -<location>
 
-<locationName>é«˜é›„å¸‚</locationName>
+<locationName>¸ßĞÛÊĞ</locationName>
 
 
 -<weatherElement>
@@ -1657,7 +1657,7 @@
 
 -<parameter>
 
-<parameterName>æ™´æ™‚å¤šé›²</parameterName>
+<parameterName>ÇçÊ±¶àÔÆ</parameterName>
 
 <parameterValue>8</parameterValue>
 
@@ -1675,7 +1675,7 @@
 
 -<parameter>
 
-<parameterName>å¤šé›²æ™‚æ™´</parameterName>
+<parameterName>¶àÔÆÊ±Çç</parameterName>
 
 <parameterValue>7</parameterValue>
 
@@ -1693,7 +1693,7 @@
 
 -<parameter>
 
-<parameterName>æ™´æ™‚å¤šé›²</parameterName>
+<parameterName>ÇçÊ±¶àÔÆ</parameterName>
 
 <parameterValue>8</parameterValue>
 
@@ -1840,7 +1840,7 @@
 
 -<parameter>
 
-<parameterName>èˆ’é©</parameterName>
+<parameterName>Êæßm</parameterName>
 
 </parameter>
 
@@ -1856,7 +1856,7 @@
 
 -<parameter>
 
-<parameterName>ç¨æœ‰å¯’æ„è‡³èˆ’é©</parameterName>
+<parameterName>ÉÔÓĞº®ÒâÖÁÊæßm</parameterName>
 
 </parameter>
 
@@ -1872,7 +1872,7 @@
 
 -<parameter>
 
-<parameterName>ç¨æœ‰å¯’æ„è‡³èˆ’é©</parameterName>
+<parameterName>ÉÔÓĞº®ÒâÖÁÊæßm</parameterName>
 
 </parameter>
 
@@ -1897,7 +1897,7 @@
 
 <parameterName>0</parameterName>
 
-<parameterUnit>ç™¾åˆ†æ¯”</parameterUnit>
+<parameterUnit>°Ù·Ö±È</parameterUnit>
 
 </parameter>
 
@@ -1915,7 +1915,7 @@
 
 <parameterName>0</parameterName>
 
-<parameterUnit>ç™¾åˆ†æ¯”</parameterUnit>
+<parameterUnit>°Ù·Ö±È</parameterUnit>
 
 </parameter>
 
@@ -1933,7 +1933,7 @@
 
 <parameterName>0</parameterName>
 
-<parameterUnit>ç™¾åˆ†æ¯”</parameterUnit>
+<parameterUnit>°Ù·Ö±È</parameterUnit>
 
 </parameter>
 
@@ -1946,7 +1946,7 @@
 
 -<location>
 
-<locationName>åŸºéš†å¸‚</locationName>
+<locationName>»ùÂ¡ÊĞ</locationName>
 
 
 -<weatherElement>
@@ -1963,7 +1963,7 @@
 
 -<parameter>
 
-<parameterName>é™°æ™‚å¤šé›²</parameterName>
+<parameterName>ÒõÊ±¶àÔÆ</parameterName>
 
 <parameterValue>6</parameterValue>
 
@@ -1981,7 +1981,7 @@
 
 -<parameter>
 
-<parameterName>å¤šé›²</parameterName>
+<parameterName>¶àÔÆ</parameterName>
 
 <parameterValue>2</parameterValue>
 
@@ -1999,7 +1999,7 @@
 
 -<parameter>
 
-<parameterName>å¤šé›²æ™‚é™°çŸ­æš«é›¨</parameterName>
+<parameterName>¶àÔÆÊ±Òõ¶ÌÔİÓê</parameterName>
 
 <parameterValue>12</parameterValue>
 
@@ -2146,7 +2146,7 @@
 
 -<parameter>
 
-<parameterName>ç¨æœ‰å¯’æ„</parameterName>
+<parameterName>ÉÔÓĞº®Òâ</parameterName>
 
 </parameter>
 
@@ -2162,7 +2162,7 @@
 
 -<parameter>
 
-<parameterName>å¯’å†·è‡³ç¨æœ‰å¯’æ„</parameterName>
+<parameterName>º®ÀäÖÁÉÔÓĞº®Òâ</parameterName>
 
 </parameter>
 
@@ -2178,7 +2178,7 @@
 
 -<parameter>
 
-<parameterName>å¯’å†·è‡³ç¨æœ‰å¯’æ„</parameterName>
+<parameterName>º®ÀäÖÁÉÔÓĞº®Òâ</parameterName>
 
 </parameter>
 
@@ -2203,7 +2203,7 @@
 
 <parameterName>20</parameterName>
 
-<parameterUnit>ç™¾åˆ†æ¯”</parameterUnit>
+<parameterUnit>°Ù·Ö±È</parameterUnit>
 
 </parameter>
 
@@ -2221,7 +2221,7 @@
 
 <parameterName>20</parameterName>
 
-<parameterUnit>ç™¾åˆ†æ¯”</parameterUnit>
+<parameterUnit>°Ù·Ö±È</parameterUnit>
 
 </parameter>
 
@@ -2239,7 +2239,7 @@
 
 <parameterName>30</parameterName>
 
-<parameterUnit>ç™¾åˆ†æ¯”</parameterUnit>
+<parameterUnit>°Ù·Ö±È</parameterUnit>
 
 </parameter>
 
@@ -2252,7 +2252,7 @@
 
 -<location>
 
-<locationName>æ–°ç«¹ç¸£</locationName>
+<locationName>ĞÂÖñ¿h</locationName>
 
 
 -<weatherElement>
@@ -2269,7 +2269,7 @@
 
 -<parameter>
 
-<parameterName>æ™´æ™‚å¤šé›²</parameterName>
+<parameterName>ÇçÊ±¶àÔÆ</parameterName>
 
 <parameterValue>8</parameterValue>
 
@@ -2287,7 +2287,7 @@
 
 -<parameter>
 
-<parameterName>æ™´æ™‚å¤šé›²</parameterName>
+<parameterName>ÇçÊ±¶àÔÆ</parameterName>
 
 <parameterValue>8</parameterValue>
 
@@ -2305,7 +2305,7 @@
 
 -<parameter>
 
-<parameterName>æ™´æ™‚å¤šé›²</parameterName>
+<parameterName>ÇçÊ±¶àÔÆ</parameterName>
 
 <parameterValue>8</parameterValue>
 
@@ -2452,7 +2452,7 @@
 
 -<parameter>
 
-<parameterName>ç¨æœ‰å¯’æ„</parameterName>
+<parameterName>ÉÔÓĞº®Òâ</parameterName>
 
 </parameter>
 
@@ -2468,7 +2468,7 @@
 
 -<parameter>
 
-<parameterName>å¯’å†·è‡³ç¨æœ‰å¯’æ„</parameterName>
+<parameterName>º®ÀäÖÁÉÔÓĞº®Òâ</parameterName>
 
 </parameter>
 
@@ -2484,7 +2484,7 @@
 
 -<parameter>
 
-<parameterName>å¯’å†·è‡³èˆ’é©</parameterName>
+<parameterName>º®ÀäÖÁÊæßm</parameterName>
 
 </parameter>
 
@@ -2509,7 +2509,7 @@
 
 <parameterName>0</parameterName>
 
-<parameterUnit>ç™¾åˆ†æ¯”</parameterUnit>
+<parameterUnit>°Ù·Ö±È</parameterUnit>
 
 </parameter>
 
@@ -2527,7 +2527,7 @@
 
 <parameterName>0</parameterName>
 
-<parameterUnit>ç™¾åˆ†æ¯”</parameterUnit>
+<parameterUnit>°Ù·Ö±È</parameterUnit>
 
 </parameter>
 
@@ -2545,7 +2545,7 @@
 
 <parameterName>0</parameterName>
 
-<parameterUnit>ç™¾åˆ†æ¯”</parameterUnit>
+<parameterUnit>°Ù·Ö±È</parameterUnit>
 
 </parameter>
 
@@ -2558,7 +2558,7 @@
 
 -<location>
 
-<locationName>æ–°ç«¹å¸‚</locationName>
+<locationName>ĞÂÖñÊĞ</locationName>
 
 
 -<weatherElement>
@@ -2575,7 +2575,7 @@
 
 -<parameter>
 
-<parameterName>æ™´æ™‚å¤šé›²</parameterName>
+<parameterName>ÇçÊ±¶àÔÆ</parameterName>
 
 <parameterValue>8</parameterValue>
 
@@ -2593,7 +2593,7 @@
 
 -<parameter>
 
-<parameterName>æ™´æ™‚å¤šé›²</parameterName>
+<parameterName>ÇçÊ±¶àÔÆ</parameterName>
 
 <parameterValue>8</parameterValue>
 
@@ -2611,7 +2611,7 @@
 
 -<parameter>
 
-<parameterName>æ™´æ™‚å¤šé›²</parameterName>
+<parameterName>ÇçÊ±¶àÔÆ</parameterName>
 
 <parameterValue>8</parameterValue>
 
@@ -2758,7 +2758,7 @@
 
 -<parameter>
 
-<parameterName>ç¨æœ‰å¯’æ„è‡³èˆ’é©</parameterName>
+<parameterName>ÉÔÓĞº®ÒâÖÁÊæßm</parameterName>
 
 </parameter>
 
@@ -2774,7 +2774,7 @@
 
 -<parameter>
 
-<parameterName>å¯’å†·è‡³ç¨æœ‰å¯’æ„</parameterName>
+<parameterName>º®ÀäÖÁÉÔÓĞº®Òâ</parameterName>
 
 </parameter>
 
@@ -2790,7 +2790,7 @@
 
 -<parameter>
 
-<parameterName>å¯’å†·è‡³èˆ’é©</parameterName>
+<parameterName>º®ÀäÖÁÊæßm</parameterName>
 
 </parameter>
 
@@ -2815,7 +2815,7 @@
 
 <parameterName>0</parameterName>
 
-<parameterUnit>ç™¾åˆ†æ¯”</parameterUnit>
+<parameterUnit>°Ù·Ö±È</parameterUnit>
 
 </parameter>
 
@@ -2833,7 +2833,7 @@
 
 <parameterName>0</parameterName>
 
-<parameterUnit>ç™¾åˆ†æ¯”</parameterUnit>
+<parameterUnit>°Ù·Ö±È</parameterUnit>
 
 </parameter>
 
@@ -2851,7 +2851,7 @@
 
 <parameterName>0</parameterName>
 
-<parameterUnit>ç™¾åˆ†æ¯”</parameterUnit>
+<parameterUnit>°Ù·Ö±È</parameterUnit>
 
 </parameter>
 
@@ -2864,7 +2864,7 @@
 
 -<location>
 
-<locationName>è‹—æ —ç¸£</locationName>
+<locationName>ÃçÀõ¿h</locationName>
 
 
 -<weatherElement>
@@ -2881,7 +2881,7 @@
 
 -<parameter>
 
-<parameterName>æ™´æ™‚å¤šé›²</parameterName>
+<parameterName>ÇçÊ±¶àÔÆ</parameterName>
 
 <parameterValue>8</parameterValue>
 
@@ -2899,7 +2899,7 @@
 
 -<parameter>
 
-<parameterName>æ™´æ™‚å¤šé›²</parameterName>
+<parameterName>ÇçÊ±¶àÔÆ</parameterName>
 
 <parameterValue>8</parameterValue>
 
@@ -2917,7 +2917,7 @@
 
 -<parameter>
 
-<parameterName>æ™´æ™‚å¤šé›²</parameterName>
+<parameterName>ÇçÊ±¶àÔÆ</parameterName>
 
 <parameterValue>8</parameterValue>
 
@@ -3064,7 +3064,7 @@
 
 -<parameter>
 
-<parameterName>ç¨æœ‰å¯’æ„</parameterName>
+<parameterName>ÉÔÓĞº®Òâ</parameterName>
 
 </parameter>
 
@@ -3080,7 +3080,7 @@
 
 -<parameter>
 
-<parameterName>å¯’å†·è‡³ç¨æœ‰å¯’æ„</parameterName>
+<parameterName>º®ÀäÖÁÉÔÓĞº®Òâ</parameterName>
 
 </parameter>
 
@@ -3096,7 +3096,7 @@
 
 -<parameter>
 
-<parameterName>å¯’å†·è‡³èˆ’é©</parameterName>
+<parameterName>º®ÀäÖÁÊæßm</parameterName>
 
 </parameter>
 
@@ -3121,7 +3121,7 @@
 
 <parameterName>0</parameterName>
 
-<parameterUnit>ç™¾åˆ†æ¯”</parameterUnit>
+<parameterUnit>°Ù·Ö±È</parameterUnit>
 
 </parameter>
 
@@ -3139,7 +3139,7 @@
 
 <parameterName>0</parameterName>
 
-<parameterUnit>ç™¾åˆ†æ¯”</parameterUnit>
+<parameterUnit>°Ù·Ö±È</parameterUnit>
 
 </parameter>
 
@@ -3157,7 +3157,7 @@
 
 <parameterName>0</parameterName>
 
-<parameterUnit>ç™¾åˆ†æ¯”</parameterUnit>
+<parameterUnit>°Ù·Ö±È</parameterUnit>
 
 </parameter>
 
@@ -3170,7 +3170,7 @@
 
 -<location>
 
-<locationName>å½°åŒ–ç¸£</locationName>
+<locationName>ÕÃ»¯¿h</locationName>
 
 
 -<weatherElement>
@@ -3187,7 +3187,7 @@
 
 -<parameter>
 
-<parameterName>æ™´æ™‚å¤šé›²</parameterName>
+<parameterName>ÇçÊ±¶àÔÆ</parameterName>
 
 <parameterValue>8</parameterValue>
 
@@ -3205,7 +3205,7 @@
 
 -<parameter>
 
-<parameterName>æ™´æ™‚å¤šé›²</parameterName>
+<parameterName>ÇçÊ±¶àÔÆ</parameterName>
 
 <parameterValue>8</parameterValue>
 
@@ -3223,7 +3223,7 @@
 
 -<parameter>
 
-<parameterName>æ™´æ™‚å¤šé›²</parameterName>
+<parameterName>ÇçÊ±¶àÔÆ</parameterName>
 
 <parameterValue>8</parameterValue>
 
@@ -3370,7 +3370,7 @@
 
 -<parameter>
 
-<parameterName>ç¨æœ‰å¯’æ„è‡³èˆ’é©</parameterName>
+<parameterName>ÉÔÓĞº®ÒâÖÁÊæßm</parameterName>
 
 </parameter>
 
@@ -3386,7 +3386,7 @@
 
 -<parameter>
 
-<parameterName>å¯’å†·è‡³ç¨æœ‰å¯’æ„</parameterName>
+<parameterName>º®ÀäÖÁÉÔÓĞº®Òâ</parameterName>
 
 </parameter>
 
@@ -3402,7 +3402,7 @@
 
 -<parameter>
 
-<parameterName>å¯’å†·è‡³èˆ’é©</parameterName>
+<parameterName>º®ÀäÖÁÊæßm</parameterName>
 
 </parameter>
 
@@ -3427,7 +3427,7 @@
 
 <parameterName>0</parameterName>
 
-<parameterUnit>ç™¾åˆ†æ¯”</parameterUnit>
+<parameterUnit>°Ù·Ö±È</parameterUnit>
 
 </parameter>
 
@@ -3445,7 +3445,7 @@
 
 <parameterName>0</parameterName>
 
-<parameterUnit>ç™¾åˆ†æ¯”</parameterUnit>
+<parameterUnit>°Ù·Ö±È</parameterUnit>
 
 </parameter>
 
@@ -3463,7 +3463,7 @@
 
 <parameterName>0</parameterName>
 
-<parameterUnit>ç™¾åˆ†æ¯”</parameterUnit>
+<parameterUnit>°Ù·Ö±È</parameterUnit>
 
 </parameter>
 
@@ -3476,7 +3476,7 @@
 
 -<location>
 
-<locationName>å—æŠ•ç¸£</locationName>
+<locationName>ÄÏÍ¶¿h</locationName>
 
 
 -<weatherElement>
@@ -3493,7 +3493,7 @@
 
 -<parameter>
 
-<parameterName>æ™´æ™‚å¤šé›²</parameterName>
+<parameterName>ÇçÊ±¶àÔÆ</parameterName>
 
 <parameterValue>8</parameterValue>
 
@@ -3511,7 +3511,7 @@
 
 -<parameter>
 
-<parameterName>æ™´æ™‚å¤šé›²</parameterName>
+<parameterName>ÇçÊ±¶àÔÆ</parameterName>
 
 <parameterValue>8</parameterValue>
 
@@ -3529,7 +3529,7 @@
 
 -<parameter>
 
-<parameterName>æ™´æ™‚å¤šé›²</parameterName>
+<parameterName>ÇçÊ±¶àÔÆ</parameterName>
 
 <parameterValue>8</parameterValue>
 
@@ -3676,7 +3676,7 @@
 
 -<parameter>
 
-<parameterName>ç¨æœ‰å¯’æ„è‡³èˆ’é©</parameterName>
+<parameterName>ÉÔÓĞº®ÒâÖÁÊæßm</parameterName>
 
 </parameter>
 
@@ -3692,7 +3692,7 @@
 
 -<parameter>
 
-<parameterName>å¯’å†·è‡³ç¨æœ‰å¯’æ„</parameterName>
+<parameterName>º®ÀäÖÁÉÔÓĞº®Òâ</parameterName>
 
 </parameter>
 
@@ -3708,7 +3708,7 @@
 
 -<parameter>
 
-<parameterName>å¯’å†·è‡³èˆ’é©</parameterName>
+<parameterName>º®ÀäÖÁÊæßm</parameterName>
 
 </parameter>
 
@@ -3733,7 +3733,7 @@
 
 <parameterName>0</parameterName>
 
-<parameterUnit>ç™¾åˆ†æ¯”</parameterUnit>
+<parameterUnit>°Ù·Ö±È</parameterUnit>
 
 </parameter>
 
@@ -3751,7 +3751,7 @@
 
 <parameterName>0</parameterName>
 
-<parameterUnit>ç™¾åˆ†æ¯”</parameterUnit>
+<parameterUnit>°Ù·Ö±È</parameterUnit>
 
 </parameter>
 
@@ -3769,7 +3769,7 @@
 
 <parameterName>0</parameterName>
 
-<parameterUnit>ç™¾åˆ†æ¯”</parameterUnit>
+<parameterUnit>°Ù·Ö±È</parameterUnit>
 
 </parameter>
 
@@ -3782,7 +3782,7 @@
 
 -<location>
 
-<locationName>é›²æ—ç¸£</locationName>
+<locationName>ë…ÁÖ¿h</locationName>
 
 
 -<weatherElement>
@@ -3799,7 +3799,7 @@
 
 -<parameter>
 
-<parameterName>æ™´æ™‚å¤šé›²</parameterName>
+<parameterName>ÇçÊ±¶àÔÆ</parameterName>
 
 <parameterValue>8</parameterValue>
 
@@ -3817,7 +3817,7 @@
 
 -<parameter>
 
-<parameterName>æ™´æ™‚å¤šé›²</parameterName>
+<parameterName>ÇçÊ±¶àÔÆ</parameterName>
 
 <parameterValue>8</parameterValue>
 
@@ -3835,7 +3835,7 @@
 
 -<parameter>
 
-<parameterName>æ™´æ™‚å¤šé›²</parameterName>
+<parameterName>ÇçÊ±¶àÔÆ</parameterName>
 
 <parameterValue>8</parameterValue>
 
@@ -3982,7 +3982,7 @@
 
 -<parameter>
 
-<parameterName>ç¨æœ‰å¯’æ„è‡³èˆ’é©</parameterName>
+<parameterName>ÉÔÓĞº®ÒâÖÁÊæßm</parameterName>
 
 </parameter>
 
@@ -3998,7 +3998,7 @@
 
 -<parameter>
 
-<parameterName>å¯’å†·è‡³ç¨æœ‰å¯’æ„</parameterName>
+<parameterName>º®ÀäÖÁÉÔÓĞº®Òâ</parameterName>
 
 </parameter>
 
@@ -4014,7 +4014,7 @@
 
 -<parameter>
 
-<parameterName>å¯’å†·è‡³èˆ’é©</parameterName>
+<parameterName>º®ÀäÖÁÊæßm</parameterName>
 
 </parameter>
 
@@ -4039,7 +4039,7 @@
 
 <parameterName>0</parameterName>
 
-<parameterUnit>ç™¾åˆ†æ¯”</parameterUnit>
+<parameterUnit>°Ù·Ö±È</parameterUnit>
 
 </parameter>
 
@@ -4057,7 +4057,7 @@
 
 <parameterName>0</parameterName>
 
-<parameterUnit>ç™¾åˆ†æ¯”</parameterUnit>
+<parameterUnit>°Ù·Ö±È</parameterUnit>
 
 </parameter>
 
@@ -4075,7 +4075,7 @@
 
 <parameterName>0</parameterName>
 
-<parameterUnit>ç™¾åˆ†æ¯”</parameterUnit>
+<parameterUnit>°Ù·Ö±È</parameterUnit>
 
 </parameter>
 
@@ -4088,7 +4088,7 @@
 
 -<location>
 
-<locationName>å˜‰ç¾©ç¸£</locationName>
+<locationName>¼ÎÁx¿h</locationName>
 
 
 -<weatherElement>
@@ -4105,7 +4105,7 @@
 
 -<parameter>
 
-<parameterName>æ™´æ™‚å¤šé›²</parameterName>
+<parameterName>ÇçÊ±¶àÔÆ</parameterName>
 
 <parameterValue>8</parameterValue>
 
@@ -4123,7 +4123,7 @@
 
 -<parameter>
 
-<parameterName>æ™´æ™‚å¤šé›²</parameterName>
+<parameterName>ÇçÊ±¶àÔÆ</parameterName>
 
 <parameterValue>8</parameterValue>
 
@@ -4141,7 +4141,7 @@
 
 -<parameter>
 
-<parameterName>æ™´æ™‚å¤šé›²</parameterName>
+<parameterName>ÇçÊ±¶àÔÆ</parameterName>
 
 <parameterValue>8</parameterValue>
 
@@ -4288,7 +4288,7 @@
 
 -<parameter>
 
-<parameterName>ç¨æœ‰å¯’æ„è‡³èˆ’é©</parameterName>
+<parameterName>ÉÔÓĞº®ÒâÖÁÊæßm</parameterName>
 
 </parameter>
 
@@ -4304,7 +4304,7 @@
 
 -<parameter>
 
-<parameterName>å¯’å†·è‡³ç¨æœ‰å¯’æ„</parameterName>
+<parameterName>º®ÀäÖÁÉÔÓĞº®Òâ</parameterName>
 
 </parameter>
 
@@ -4320,7 +4320,7 @@
 
 -<parameter>
 
-<parameterName>å¯’å†·è‡³èˆ’é©</parameterName>
+<parameterName>º®ÀäÖÁÊæßm</parameterName>
 
 </parameter>
 
@@ -4345,7 +4345,7 @@
 
 <parameterName>0</parameterName>
 
-<parameterUnit>ç™¾åˆ†æ¯”</parameterUnit>
+<parameterUnit>°Ù·Ö±È</parameterUnit>
 
 </parameter>
 
@@ -4363,7 +4363,7 @@
 
 <parameterName>0</parameterName>
 
-<parameterUnit>ç™¾åˆ†æ¯”</parameterUnit>
+<parameterUnit>°Ù·Ö±È</parameterUnit>
 
 </parameter>
 
@@ -4381,7 +4381,7 @@
 
 <parameterName>0</parameterName>
 
-<parameterUnit>ç™¾åˆ†æ¯”</parameterUnit>
+<parameterUnit>°Ù·Ö±È</parameterUnit>
 
 </parameter>
 
@@ -4394,7 +4394,7 @@
 
 -<location>
 
-<locationName>å˜‰ç¾©å¸‚</locationName>
+<locationName>¼ÎÁxÊĞ</locationName>
 
 
 -<weatherElement>
@@ -4411,7 +4411,7 @@
 
 -<parameter>
 
-<parameterName>æ™´æ™‚å¤šé›²</parameterName>
+<parameterName>ÇçÊ±¶àÔÆ</parameterName>
 
 <parameterValue>8</parameterValue>
 
@@ -4429,7 +4429,7 @@
 
 -<parameter>
 
-<parameterName>æ™´æ™‚å¤šé›²</parameterName>
+<parameterName>ÇçÊ±¶àÔÆ</parameterName>
 
 <parameterValue>8</parameterValue>
 
@@ -4447,7 +4447,7 @@
 
 -<parameter>
 
-<parameterName>æ™´æ™‚å¤šé›²</parameterName>
+<parameterName>ÇçÊ±¶àÔÆ</parameterName>
 
 <parameterValue>8</parameterValue>
 
@@ -4594,7 +4594,7 @@
 
 -<parameter>
 
-<parameterName>èˆ’é©</parameterName>
+<parameterName>Êæßm</parameterName>
 
 </parameter>
 
@@ -4610,7 +4610,7 @@
 
 -<parameter>
 
-<parameterName>å¯’å†·è‡³èˆ’é©</parameterName>
+<parameterName>º®ÀäÖÁÊæßm</parameterName>
 
 </parameter>
 
@@ -4626,7 +4626,7 @@
 
 -<parameter>
 
-<parameterName>å¯’å†·è‡³èˆ’é©</parameterName>
+<parameterName>º®ÀäÖÁÊæßm</parameterName>
 
 </parameter>
 
@@ -4651,7 +4651,7 @@
 
 <parameterName>0</parameterName>
 
-<parameterUnit>ç™¾åˆ†æ¯”</parameterUnit>
+<parameterUnit>°Ù·Ö±È</parameterUnit>
 
 </parameter>
 
@@ -4669,7 +4669,7 @@
 
 <parameterName>0</parameterName>
 
-<parameterUnit>ç™¾åˆ†æ¯”</parameterUnit>
+<parameterUnit>°Ù·Ö±È</parameterUnit>
 
 </parameter>
 
@@ -4687,7 +4687,7 @@
 
 <parameterName>0</parameterName>
 
-<parameterUnit>ç™¾åˆ†æ¯”</parameterUnit>
+<parameterUnit>°Ù·Ö±È</parameterUnit>
 
 </parameter>
 
@@ -4700,7 +4700,7 @@
 
 -<location>
 
-<locationName>å±æ±ç¸£</locationName>
+<locationName>ÆÁ–|¿h</locationName>
 
 
 -<weatherElement>
@@ -4717,7 +4717,7 @@
 
 -<parameter>
 
-<parameterName>æ™´æ™‚å¤šé›²</parameterName>
+<parameterName>ÇçÊ±¶àÔÆ</parameterName>
 
 <parameterValue>8</parameterValue>
 
@@ -4735,7 +4735,7 @@
 
 -<parameter>
 
-<parameterName>å¤šé›²æ™‚æ™´</parameterName>
+<parameterName>¶àÔÆÊ±Çç</parameterName>
 
 <parameterValue>7</parameterValue>
 
@@ -4753,7 +4753,7 @@
 
 -<parameter>
 
-<parameterName>æ™´æ™‚å¤šé›²</parameterName>
+<parameterName>ÇçÊ±¶àÔÆ</parameterName>
 
 <parameterValue>8</parameterValue>
 
@@ -4900,7 +4900,7 @@
 
 -<parameter>
 
-<parameterName>èˆ’é©</parameterName>
+<parameterName>Êæßm</parameterName>
 
 </parameter>
 
@@ -4916,7 +4916,7 @@
 
 -<parameter>
 
-<parameterName>ç¨æœ‰å¯’æ„è‡³èˆ’é©</parameterName>
+<parameterName>ÉÔÓĞº®ÒâÖÁÊæßm</parameterName>
 
 </parameter>
 
@@ -4932,7 +4932,7 @@
 
 -<parameter>
 
-<parameterName>ç¨æœ‰å¯’æ„è‡³èˆ’é©</parameterName>
+<parameterName>ÉÔÓĞº®ÒâÖÁÊæßm</parameterName>
 
 </parameter>
 
@@ -4957,7 +4957,7 @@
 
 <parameterName>0</parameterName>
 
-<parameterUnit>ç™¾åˆ†æ¯”</parameterUnit>
+<parameterUnit>°Ù·Ö±È</parameterUnit>
 
 </parameter>
 
@@ -4975,7 +4975,7 @@
 
 <parameterName>0</parameterName>
 
-<parameterUnit>ç™¾åˆ†æ¯”</parameterUnit>
+<parameterUnit>°Ù·Ö±È</parameterUnit>
 
 </parameter>
 
@@ -4993,7 +4993,7 @@
 
 <parameterName>10</parameterName>
 
-<parameterUnit>ç™¾åˆ†æ¯”</parameterUnit>
+<parameterUnit>°Ù·Ö±È</parameterUnit>
 
 </parameter>
 
@@ -5006,7 +5006,7 @@
 
 -<location>
 
-<locationName>å®œè˜­ç¸£</locationName>
+<locationName>ÒËÌm¿h</locationName>
 
 
 -<weatherElement>
@@ -5023,7 +5023,7 @@
 
 -<parameter>
 
-<parameterName>å¤šé›²</parameterName>
+<parameterName>¶àÔÆ</parameterName>
 
 <parameterValue>2</parameterValue>
 
@@ -5041,7 +5041,7 @@
 
 -<parameter>
 
-<parameterName>é™°æ™‚å¤šé›²çŸ­æš«é›¨</parameterName>
+<parameterName>ÒõÊ±¶àÔÆ¶ÌÔİÓê</parameterName>
 
 <parameterValue>26</parameterValue>
 
@@ -5059,7 +5059,7 @@
 
 -<parameter>
 
-<parameterName>é™°æ™‚å¤šé›²çŸ­æš«é›¨</parameterName>
+<parameterName>ÒõÊ±¶àÔÆ¶ÌÔİÓê</parameterName>
 
 <parameterValue>26</parameterValue>
 
@@ -5206,7 +5206,7 @@
 
 -<parameter>
 
-<parameterName>ç¨æœ‰å¯’æ„</parameterName>
+<parameterName>ÉÔÓĞº®Òâ</parameterName>
 
 </parameter>
 
@@ -5222,7 +5222,7 @@
 
 -<parameter>
 
-<parameterName>å¯’å†·è‡³ç¨æœ‰å¯’æ„</parameterName>
+<parameterName>º®ÀäÖÁÉÔÓĞº®Òâ</parameterName>
 
 </parameter>
 
@@ -5238,7 +5238,7 @@
 
 -<parameter>
 
-<parameterName>å¯’å†·è‡³ç¨æœ‰å¯’æ„</parameterName>
+<parameterName>º®ÀäÖÁÉÔÓĞº®Òâ</parameterName>
 
 </parameter>
 
@@ -5263,7 +5263,7 @@
 
 <parameterName>20</parameterName>
 
-<parameterUnit>ç™¾åˆ†æ¯”</parameterUnit>
+<parameterUnit>°Ù·Ö±È</parameterUnit>
 
 </parameter>
 
@@ -5281,7 +5281,7 @@
 
 <parameterName>40</parameterName>
 
-<parameterUnit>ç™¾åˆ†æ¯”</parameterUnit>
+<parameterUnit>°Ù·Ö±È</parameterUnit>
 
 </parameter>
 
@@ -5299,7 +5299,7 @@
 
 <parameterName>40</parameterName>
 
-<parameterUnit>ç™¾åˆ†æ¯”</parameterUnit>
+<parameterUnit>°Ù·Ö±È</parameterUnit>
 
 </parameter>
 
@@ -5312,7 +5312,7 @@
 
 -<location>
 
-<locationName>èŠ±è“®ç¸£</locationName>
+<locationName>»¨É¿h</locationName>
 
 
 -<weatherElement>
@@ -5329,7 +5329,7 @@
 
 -<parameter>
 
-<parameterName>é™°å¤©</parameterName>
+<parameterName>ÒõÌì</parameterName>
 
 <parameterValue>3</parameterValue>
 
@@ -5347,7 +5347,7 @@
 
 -<parameter>
 
-<parameterName>å¤šé›²æ™‚é™°</parameterName>
+<parameterName>¶àÔÆÊ±Òõ</parameterName>
 
 <parameterValue>5</parameterValue>
 
@@ -5365,7 +5365,7 @@
 
 -<parameter>
 
-<parameterName>å¤šé›²æ™‚æ™´</parameterName>
+<parameterName>¶àÔÆÊ±Çç</parameterName>
 
 <parameterValue>7</parameterValue>
 
@@ -5512,7 +5512,7 @@
 
 -<parameter>
 
-<parameterName>ç¨æœ‰å¯’æ„è‡³èˆ’é©</parameterName>
+<parameterName>ÉÔÓĞº®ÒâÖÁÊæßm</parameterName>
 
 </parameter>
 
@@ -5528,7 +5528,7 @@
 
 -<parameter>
 
-<parameterName>ç¨æœ‰å¯’æ„</parameterName>
+<parameterName>ÉÔÓĞº®Òâ</parameterName>
 
 </parameter>
 
@@ -5544,7 +5544,7 @@
 
 -<parameter>
 
-<parameterName>ç¨æœ‰å¯’æ„è‡³èˆ’é©</parameterName>
+<parameterName>ÉÔÓĞº®ÒâÖÁÊæßm</parameterName>
 
 </parameter>
 
@@ -5569,7 +5569,7 @@
 
 <parameterName>20</parameterName>
 
-<parameterUnit>ç™¾åˆ†æ¯”</parameterUnit>
+<parameterUnit>°Ù·Ö±È</parameterUnit>
 
 </parameter>
 
@@ -5587,7 +5587,7 @@
 
 <parameterName>20</parameterName>
 
-<parameterUnit>ç™¾åˆ†æ¯”</parameterUnit>
+<parameterUnit>°Ù·Ö±È</parameterUnit>
 
 </parameter>
 
@@ -5605,7 +5605,7 @@
 
 <parameterName>10</parameterName>
 
-<parameterUnit>ç™¾åˆ†æ¯”</parameterUnit>
+<parameterUnit>°Ù·Ö±È</parameterUnit>
 
 </parameter>
 
@@ -5618,7 +5618,7 @@
 
 -<location>
 
-<locationName>è‡ºæ±ç¸£</locationName>
+<locationName>Å_–|¿h</locationName>
 
 
 -<weatherElement>
@@ -5635,7 +5635,7 @@
 
 -<parameter>
 
-<parameterName>å¤šé›²</parameterName>
+<parameterName>¶àÔÆ</parameterName>
 
 <parameterValue>2</parameterValue>
 
@@ -5653,7 +5653,7 @@
 
 -<parameter>
 
-<parameterName>å¤šé›²æ™‚æ™´</parameterName>
+<parameterName>¶àÔÆÊ±Çç</parameterName>
 
 <parameterValue>7</parameterValue>
 
@@ -5671,7 +5671,7 @@
 
 -<parameter>
 
-<parameterName>æ™´æ™‚å¤šé›²</parameterName>
+<parameterName>ÇçÊ±¶àÔÆ</parameterName>
 
 <parameterValue>8</parameterValue>
 
@@ -5818,7 +5818,7 @@
 
 -<parameter>
 
-<parameterName>èˆ’é©</parameterName>
+<parameterName>Êæßm</parameterName>
 
 </parameter>
 
@@ -5834,7 +5834,7 @@
 
 -<parameter>
 
-<parameterName>ç¨æœ‰å¯’æ„è‡³èˆ’é©</parameterName>
+<parameterName>ÉÔÓĞº®ÒâÖÁÊæßm</parameterName>
 
 </parameter>
 
@@ -5850,7 +5850,7 @@
 
 -<parameter>
 
-<parameterName>ç¨æœ‰å¯’æ„è‡³èˆ’é©</parameterName>
+<parameterName>ÉÔÓĞº®ÒâÖÁÊæßm</parameterName>
 
 </parameter>
 
@@ -5875,7 +5875,7 @@
 
 <parameterName>20</parameterName>
 
-<parameterUnit>ç™¾åˆ†æ¯”</parameterUnit>
+<parameterUnit>°Ù·Ö±È</parameterUnit>
 
 </parameter>
 
@@ -5893,7 +5893,7 @@
 
 <parameterName>20</parameterName>
 
-<parameterUnit>ç™¾åˆ†æ¯”</parameterUnit>
+<parameterUnit>°Ù·Ö±È</parameterUnit>
 
 </parameter>
 
@@ -5911,7 +5911,7 @@
 
 <parameterName>10</parameterName>
 
-<parameterUnit>ç™¾åˆ†æ¯”</parameterUnit>
+<parameterUnit>°Ù·Ö±È</parameterUnit>
 
 </parameter>
 
@@ -5924,7 +5924,7 @@
 
 -<location>
 
-<locationName>æ¾æ¹–ç¸£</locationName>
+<locationName>Åìºş¿h</locationName>
 
 
 -<weatherElement>
@@ -5941,7 +5941,7 @@
 
 -<parameter>
 
-<parameterName>æ™´æ™‚å¤šé›²</parameterName>
+<parameterName>ÇçÊ±¶àÔÆ</parameterName>
 
 <parameterValue>8</parameterValue>
 
@@ -5959,7 +5959,7 @@
 
 -<parameter>
 
-<parameterName>æ™´æ™‚å¤šé›²</parameterName>
+<parameterName>ÇçÊ±¶àÔÆ</parameterName>
 
 <parameterValue>8</parameterValue>
 
@@ -5977,7 +5977,7 @@
 
 -<parameter>
 
-<parameterName>æ™´æ™‚å¤šé›²</parameterName>
+<parameterName>ÇçÊ±¶àÔÆ</parameterName>
 
 <parameterValue>8</parameterValue>
 
@@ -6124,7 +6124,7 @@
 
 -<parameter>
 
-<parameterName>ç¨æœ‰å¯’æ„</parameterName>
+<parameterName>ÉÔÓĞº®Òâ</parameterName>
 
 </parameter>
 
@@ -6140,7 +6140,7 @@
 
 -<parameter>
 
-<parameterName>ç¨æœ‰å¯’æ„</parameterName>
+<parameterName>ÉÔÓĞº®Òâ</parameterName>
 
 </parameter>
 
@@ -6156,7 +6156,7 @@
 
 -<parameter>
 
-<parameterName>ç¨æœ‰å¯’æ„</parameterName>
+<parameterName>ÉÔÓĞº®Òâ</parameterName>
 
 </parameter>
 
@@ -6181,7 +6181,7 @@
 
 <parameterName>0</parameterName>
 
-<parameterUnit>ç™¾åˆ†æ¯”</parameterUnit>
+<parameterUnit>°Ù·Ö±È</parameterUnit>
 
 </parameter>
 
@@ -6199,7 +6199,7 @@
 
 <parameterName>0</parameterName>
 
-<parameterUnit>ç™¾åˆ†æ¯”</parameterUnit>
+<parameterUnit>°Ù·Ö±È</parameterUnit>
 
 </parameter>
 
@@ -6217,7 +6217,7 @@
 
 <parameterName>0</parameterName>
 
-<parameterUnit>ç™¾åˆ†æ¯”</parameterUnit>
+<parameterUnit>°Ù·Ö±È</parameterUnit>
 
 </parameter>
 
@@ -6230,7 +6230,7 @@
 
 -<location>
 
-<locationName>é‡‘é–€ç¸£</locationName>
+<locationName>½ğéT¿h</locationName>
 
 
 -<weatherElement>
@@ -6247,7 +6247,7 @@
 
 -<parameter>
 
-<parameterName>æ™´æ™‚å¤šé›²</parameterName>
+<parameterName>ÇçÊ±¶àÔÆ</parameterName>
 
 <parameterValue>8</parameterValue>
 
@@ -6265,7 +6265,7 @@
 
 -<parameter>
 
-<parameterName>æ™´æ™‚å¤šé›²</parameterName>
+<parameterName>ÇçÊ±¶àÔÆ</parameterName>
 
 <parameterValue>8</parameterValue>
 
@@ -6283,7 +6283,7 @@
 
 -<parameter>
 
-<parameterName>æ™´æ™‚å¤šé›²</parameterName>
+<parameterName>ÇçÊ±¶àÔÆ</parameterName>
 
 <parameterValue>8</parameterValue>
 
@@ -6430,7 +6430,7 @@
 
 -<parameter>
 
-<parameterName>å¯’å†·è‡³ç¨æœ‰å¯’æ„</parameterName>
+<parameterName>º®ÀäÖÁÉÔÓĞº®Òâ</parameterName>
 
 </parameter>
 
@@ -6446,7 +6446,7 @@
 
 -<parameter>
 
-<parameterName>å¯’å†·</parameterName>
+<parameterName>º®Àä</parameterName>
 
 </parameter>
 
@@ -6462,7 +6462,7 @@
 
 -<parameter>
 
-<parameterName>å¯’å†·è‡³ç¨æœ‰å¯’æ„</parameterName>
+<parameterName>º®ÀäÖÁÉÔÓĞº®Òâ</parameterName>
 
 </parameter>
 
@@ -6487,7 +6487,7 @@
 
 <parameterName>0</parameterName>
 
-<parameterUnit>ç™¾åˆ†æ¯”</parameterUnit>
+<parameterUnit>°Ù·Ö±È</parameterUnit>
 
 </parameter>
 
@@ -6505,7 +6505,7 @@
 
 <parameterName>0</parameterName>
 
-<parameterUnit>ç™¾åˆ†æ¯”</parameterUnit>
+<parameterUnit>°Ù·Ö±È</parameterUnit>
 
 </parameter>
 
@@ -6523,7 +6523,7 @@
 
 <parameterName>0</parameterName>
 
-<parameterUnit>ç™¾åˆ†æ¯”</parameterUnit>
+<parameterUnit>°Ù·Ö±È</parameterUnit>
 
 </parameter>
 
@@ -6536,7 +6536,7 @@
 
 -<location>
 
-<locationName>é€£æ±Ÿç¸£</locationName>
+<locationName>ßB½­¿h</locationName>
 
 
 -<weatherElement>
@@ -6553,7 +6553,7 @@
 
 -<parameter>
 
-<parameterName>å¤šé›²</parameterName>
+<parameterName>¶àÔÆ</parameterName>
 
 <parameterValue>2</parameterValue>
 
@@ -6571,7 +6571,7 @@
 
 -<parameter>
 
-<parameterName>å¤šé›²æ™‚é™°</parameterName>
+<parameterName>¶àÔÆÊ±Òõ</parameterName>
 
 <parameterValue>5</parameterValue>
 
@@ -6589,7 +6589,7 @@
 
 -<parameter>
 
-<parameterName>å¤šé›²</parameterName>
+<parameterName>¶àÔÆ</parameterName>
 
 <parameterValue>2</parameterValue>
 
@@ -6736,7 +6736,7 @@
 
 -<parameter>
 
-<parameterName>å¯’å†·</parameterName>
+<parameterName>º®Àä</parameterName>
 
 </parameter>
 
@@ -6752,7 +6752,7 @@
 
 -<parameter>
 
-<parameterName>éå¸¸å¯’å†·è‡³å¯’å†·</parameterName>
+<parameterName>·Ç³£º®ÀäÖÁº®Àä</parameterName>
 
 </parameter>
 
@@ -6768,7 +6768,7 @@
 
 -<parameter>
 
-<parameterName>éå¸¸å¯’å†·è‡³å¯’å†·</parameterName>
+<parameterName>·Ç³£º®ÀäÖÁº®Àä</parameterName>
 
 </parameter>
 
@@ -6793,7 +6793,7 @@
 
 <parameterName>0</parameterName>
 
-<parameterUnit>ç™¾åˆ†æ¯”</parameterUnit>
+<parameterUnit>°Ù·Ö±È</parameterUnit>
 
 </parameter>
 
@@ -6811,7 +6811,7 @@
 
 <parameterName>20</parameterName>
 
-<parameterUnit>ç™¾åˆ†æ¯”</parameterUnit>
+<parameterUnit>°Ù·Ö±È</parameterUnit>
 
 </parameter>
 
@@ -6829,7 +6829,7 @@
 
 <parameterName>0</parameterName>
 
-<parameterUnit>ç™¾åˆ†æ¯”</parameterUnit>
+<parameterUnit>°Ù·Ö±È</parameterUnit>
 
 </parameter>
 
